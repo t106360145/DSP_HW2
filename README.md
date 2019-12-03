@@ -11,11 +11,11 @@
 	5. 累加器(Accumulator)
 3. 引用`Hugo_freqz.m`找出五種系統的頻率響應
 4. 把經過五種系統後的結果，分別輸出為
-	1.`Out_Forward_diff.wav`
-	2.`Out_Backward_diff.wav`
-	3.`Out_Moving_average.wav`
-	4.`Out_Delay.wav`
-	5.`Out_Accumulator.wav`
+	1. `Out_Forward_diff.wav`
+	2. `Out_Backward_diff.wav`
+	3. `Out_Moving_average.wav`
+	4. `Out_Delay.wav`
+	5. `Out_Accumulator.wav`
 
 # Output figure
 ![alt_text](https://github.com/t106360145/DSP_HW2/blob/master/Y.PNG)
