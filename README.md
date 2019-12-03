@@ -18,7 +18,7 @@
 	5.`Out_Accumulator.wav`
 
 # Output figure
-![alt_text](https://github.com/DigitalSignalProcessingNTUT2018/lab-1-basic-signal-and-spectrum-t106360145/blob/master/Y.PNG)
+![alt_text](https://github.com/t106360145/DSP_HW2/blob/host/Y.PNG)
 
 # Convolution `Hugo_filter.m`
 
@@ -29,19 +29,19 @@
 此檔案是將脈衝響應轉至頻率響應的的副函式，並直接畫出頻率響應之大小圖及相位圖
 
 # Forward Difference figure
-![alt_text](https://github.com/DigitalSignalProcessingNTUT2018/lab-1-basic-signal-and-spectrum-t106360145/blob/master/h12.PNG)
+![alt_text](https://github.com/t106360145/DSP_HW2/blob/host/h12.PNG)
 
 # Backward Difference figure
-![alt_text](https://github.com/DigitalSignalProcessingNTUT2018/lab-1-basic-signal-and-spectrum-t106360145/blob/master/h22.PNG)
+![alt_text](https://github.com/t106360145/DSP_HW2/blob/host/hback.PNG)
 
 # Moving Average figure
-![alt_text](https://github.com/DigitalSignalProcessingNTUT2018/lab-1-basic-signal-and-spectrum-t106360145/blob/master/h32.PNG)
+![alt_text](https://github.com/t106360145/DSP_HW2/blob/host/h32.PNG)
 
 # Ideal Delay figure
-![alt_text](https://github.com/DigitalSignalProcessingNTUT2018/lab-1-basic-signal-and-spectrum-t106360145/blob/master/h42.PNG)
+![alt_text](https://github.com/t106360145/DSP_HW2/blob/host/hdelay.PNG)
 
 # Accumulator figure
-![alt_text](https://github.com/DigitalSignalProcessingNTUT2018/lab-1-basic-signal-and-spectrum-t106360145/blob/master/h52.PNG)
+![alt_text](https://github.com/t106360145/DSP_HW2/blob/host/h52.PNG)
 
 # PPT project `HW2.pptx`
 
