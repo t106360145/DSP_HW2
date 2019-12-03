@@ -29,7 +29,7 @@
 此檔案是將脈衝響應轉至頻率響應的的副函式，並直接畫出頻率響應之大小圖及相位圖
 
 # Forward Difference figure
-![alt_text](https://github.com/t106360145/DSP_HW2/blob/host/h12.PNG)
+![alt_text](https://github.com/t106360145/DSP_HW2/blob/host/h122.PNG)
 
 # Backward Difference figure
 ![alt_text](https://github.com/t106360145/DSP_HW2/blob/host/hback.PNG)
