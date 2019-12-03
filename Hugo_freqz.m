@@ -11,7 +11,7 @@ function freq=Hugo_freqz(h,width)
         magnitude=round(magnitude); %delete very low value
     end
     
-    phase=angle(freq(2:end))*180/pi; %turn radian to angle
+    phase=unwrap(angle(freq(2:end)))*180/pi; %turn radian to angle
     figure;
     subplot(211);   plot(l(2:end-1)/(pi),magnitude);    grid on;  title('Magnitude Spectrum |H(e^{j\omega})|');  
     xlabel('Frequency (\times\pi rad/sample)'); ylabel('Magnitude(dB)');    %show magnitude(db)
