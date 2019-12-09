@@ -26,7 +26,7 @@
 
 # Frequency Response `Hugo_freqz.m`
 
-此檔案是將脈衝響應轉至頻率響應的的副函式，並直接畫出頻率響應之大小圖及相位圖
+此檔案是將脈衝響應轉至頻率響應的的副函式，並直接畫出頻率響應之大小圖及相位圖(相位範圍在-π≤θ≤π)
 
 # Forward Difference figure
 ![alt_text](https://github.com/t106360145/DSP_HW2/blob/master/h122.PNG)
